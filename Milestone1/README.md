@@ -47,4 +47,3 @@ Relationships were created using primary and foreign keys.
 - Power BI Desktop
 - Power Query
 - DAX
-- GitHub
